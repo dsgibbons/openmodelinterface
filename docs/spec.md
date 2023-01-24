@@ -56,7 +56,7 @@ env:
   - name: PROTOCOL
     value: <ml.openmodel.protocols> # e.g. v2
   - name: MODEL_NAME
-    value: <ml.openml.model_name> # e.g. mdodel name
+    value: <ml.openml.model_name> # e.g. model name
 ```
 
 * `INTERFACE` MUST be the string interface supported, as defined in the interfaces section below.
